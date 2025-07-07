@@ -1,1 +1,84 @@
-# Lucky-Marcel1
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WISATA JAMBI</title>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <div class="header"; align="center">
+            <img src="logo jambi.png" alt="logo" height="150" width="180">
+            <h2>WISATA JAMBI</h2>
+        </div>
+        <div class="daftar-content">
+            <div id="content">
+                <h3>Gunung Kerinci</h3>
+
+                <img src="gunung-kerinci-di-sumatra.jpg" alt="Gunung Kerinci" height="200" width="350">
+
+                <p align="justify">Gunung Kerinci (juga dieja dengan "Kerintji") adalah gunung tertinggi di pulau Sumatra dan gunung berapi tertinggi di Indonesia juga Asia Tenggara.</p>
+                <a href="1p.gunung kerinci.html">Baca Selengkapnya</a>
+
+            </div>
+            <div id="content">
+                <H3>Museum Siginjei, Jambi</H3>
+
+                <img src="Museum_Siginjei.png" alt="Museum Siginjei" height="200" width="350">
+
+                <p align="justify">Museum Siginjei Jambi merupakan museum yang menyimpan berbagai koleksi benda-benda bersejarah, benda seni tradisi serta sejumlah instalasi edukasi pewarisan budaya lainya.</p>
+                <a href="1p.Museum Siginjei.html">Baca selengkapnya</a>
+
+            <div>
+            <div id="content">
+                <H3>Taman Hutan Kota Muhammad Sabki</H3>
+
+                <img src="Gerbang_Taman_Hutan_Kota_Muhammad_Sabki.jpg" alt="Taman Hutan Kota Muhammad Sabki" height="200" width="350">
+
+                <p align="justify">Taman Hutan Kota Muhammad Sabki (THKMS) atau Ruang Terbuka Hijau Hutan Kota Muhammad Sabki adalah taman hutan kota di Kota Jambi yang merupakan gagasan dari Walikota Jambi terdahulu, Muhammad Sabki mantan Wali Kota Jambi periode 1993 - 1997. Bapak Muhammad Sabki menetapkan kawasan seluas 10 hektar sebagai hutan kota dengan keputusan Walikota Jambi No. 607 tahun 1995 tanggal 12 Desember 1995, Kemudian Tahun 2003 Pemerintah Kota Jambi Menambah Luas Taman seluas 1 hektare untuk keperluan areal parkir dan kantor sehingga luas THKMS kota Jambi menjadi 11 hektare.</p>
+
+                <a href="1p.Taman Hutan Kota Muhammad Sabki.html">Baca selengkapnya</a>
+
+            </div>
+        </div>
+        <div id="content">
+            <H3>Rumah Batu Olak Kemang</H3>
+
+            <img src="Cagar_Budaya_Rumah_Batu_-_Hassan_Al_Jufri.jpg" alt="Rumah Batu Olak Kemang" height="200" width="350">
+
+            <p align="justify">Rumah Batu Olak Kemang adalah rumah yang dibangun pada sekitar abad ke-18 oleh Pangeran Wirokusumo atau Sayyid Idrus Hassan Al-Jufri, arsitektur rumah ini terbilang unik karena memiliki tiga ciri khas yaitu gaya Eropa, gaya Cina, dan terakhir gaya Arab. bangunan ini terletak di Olak Kemang, di seberang Kota Jambi. Rumah ini juga merupakan jejak perkembangan dari Kesultanan Jambi.</p>
+            <a href="1p.Rumah Batu Olak Kemang.html">Baca selengkapnya</a>
+        </div>
+ <div id="content"> 
+                <H3>Danau Kaco</H3>
+
+                <img src="Lake_Kaca.jpg" alt="Danau Kaco" height="200" width="350">
+
+                <p align="justify">Danau Kaco merupakan danau yang terletak di kabupaten Kerinci, Jambi. Tepatnya di desa Lempur, kecamatan Gunung Raya. Danau ini berada di kawasan Taman Nasional Kerinci Seblat (TNKS) yang merupakan situs warisan UNESCO. Danau kaco memiliki luas sekitar 90 meter persegi dan memiliki kedalaman yang belum diketahui. Secara geografis danau ini terletak di 101.540402 BT dan 2.330258 LS pada ketinggian 1229 mdpl.</p>
+                <a href="1p.Danau Kaco.html">Baca selengkapnya</a>
+
+            <div>
+    </div>
+    <div class="sidebar">
+        <h3>Beberapa pilihan wisata lainnya di Jambi</h3>
+
+        <ul>
+            <li><a href="1p.Air Terjun Muara Karing.html">Air Terjun Karing</a></li>
+            <li><a href="1p.Air Terjun Sigerincing.html">Air Terjun Sigerincing</a></li>
+            <li><a href="1p.Taman Bumi Merangin-Jambi.html">Taman Bumi Merangin</a></li>
+            <li><a href="1p.Taman Nasional Bukit Tiga Puluh.html">Taman Nasional Bukit Tiga Puluh</a></li>
+            <li><a href="1p.Telaga Biru Jangkat.html">Telaga Biru Jangkat</a></li>
+          
+        </ul>
+
+    </div>
+    <div class="footer">
+        <p align="center">Copyright 2025 Wisata Jambi</p>
+    </div>
+    </div>
+</body>
